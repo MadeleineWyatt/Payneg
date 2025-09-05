@@ -1,4 +1,3 @@
-# Payneg
 <div style="font-family:system-ui;max-width:760px;border:1px solid #ddd;border-radius:12px;padding:16px;margin:12px 0">
   <h3 style="margin:0 0 8px">Interactive quiz: How do you support balance?</h3>
 
